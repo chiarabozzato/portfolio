@@ -1,0 +1,52 @@
+html,
+body {
+    margin-left: 12%;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    background-color: white;
+}
+
+h1 {
+    margin-left: 13%;
+}
+
+h3 {
+    margin-left: 27.1%;
+}
+
+h4 {
+    display: block;
+    margin-top: 60%;
+    margin-left: -5%;
+}
+
+
+#startButton {
+    background-color: #4CAF50;
+    margin-left: 26%;
+    margin-bottom: 1%;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: forestgreen;
+    color: white;
+}
+
+#stopButton{
+    background-color: #f44336;
+    margin-left: 0;
+    margin-bottom: 1%;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: crimson;
+    color: white;
+}
+
+
+
+canvas {
+    display: block;
+    margin-top: -87%;
+    margin-left: -9%;
+}
